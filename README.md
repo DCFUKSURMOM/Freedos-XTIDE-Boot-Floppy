@@ -15,3 +15,5 @@ Follow the on screen instructions once booted, I'll put a copy of the prompt her
  Please run xtidecfg to reconfigure the XTIDE BIOS first.
  The file you want to edit is ide_xt.bin.
  When you are done configuring the XTIDE BIOS, run makeboot.bat"
+
+QEMU Demo and mini tutorial on my YouTube channel here: https://youtu.be/82ROLCMMgRg?si=T0ArxaKnPaLswfpG
