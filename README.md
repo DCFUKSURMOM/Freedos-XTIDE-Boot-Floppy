@@ -10,7 +10,7 @@ Insert the floppy into drive A on the target machine and boot from it.
 
 Follow the on screen instructions once booted, I'll put a copy of the prompt here:
 
-"This disk is set up with the tools to create an XTIDE boot floppy
+"This disk is set up with the tools to create an XTIDE boot floppy.
  Please run xtidecfg to reconfigure the XTIDE BIOS first.
- The file you want to edit is ide_xt.bin
+ The file you want to edit is ide_xt.bin.
  When you are done configuring the XTIDE BIOS, run makeboot.bat"
